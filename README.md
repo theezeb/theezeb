@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 **STATS**:
 
-![Shahzeb's github stats](https://github-readme-stats.vercel.app/api?username=shahzebgit&show_icons=true&theme=tokyonight) <br>
+![Shahzeb's github stats](https://github-readme-stats.vercel.app/api?username=shahzebgit&count_private=true&show_icons=true&theme=tokyonight) <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebgit&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
