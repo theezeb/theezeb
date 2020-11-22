@@ -4,10 +4,8 @@ I'm a self-taught **FrontEnd Developer** and looking for a job.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Z-Clothing E-commerce Website](https://z-clothing.herokuapp.com/)
+- 🔭 I’m currently working on Gif Maker
 - 🌱 I’m currently learning React & graphQL
-- 👯 I’m looking to collaborate on nothing yet 😜
-- 🤔 I’m looking for help with  understanding certain concepts and do clean coding.
 
 
 **STATS**:
