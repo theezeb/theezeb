@@ -1,6 +1,6 @@
 ### Hi there,I'm Shahzeb Parkar 👋
 
-I'm a self-taught **FrontEnd Developer** and looking for a job.
+I'm a  **FrontEnd Developer** and looking for a full-time job.
 
 Here are some ideas to get you started:
 
