@@ -4,8 +4,8 @@ I'm a  **FrontEnd Developer** and looking for a full-time job.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Gif Maker
-- 🌱 I’m currently learning React & graphQL
+- 🔭 I’m currently working on Instagram Clone
+- 🌱 I’m currently learning NextJS and Advance ReactJS
 
 
 **STATS**:
