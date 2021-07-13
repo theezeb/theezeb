@@ -1,11 +1,11 @@
 ### Hi there,I'm Shahzeb Parkar 👋
 
-I'm a  **FrontEnd Developer** and looking for a full-time job.
+I'm a **Software Engineer** working full-time job.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Instagram Clone
-- 🌱 I’m currently learning Advanced ReactJS
+- 🔭 I’m currently working on something.
+- 🌱 I’m currently learning Advanced JS & ckeditor5
 
 
 **STATS**:
