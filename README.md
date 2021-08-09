@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advanced JS & ckeditor5
 
 
-**STATS**:
+### **STATS**:
 
 ![Shahzeb's github stats](https://github-readme-stats-shahzebgit.vercel.app/api?username=shahzebgit&count_private=true&show_icons=true&theme=tokyonight) <br>
 
