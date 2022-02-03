@@ -4,8 +4,8 @@ I'm a **Software Engineer** working full-time job.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently not working on any projects 
-- 🌱 I’m currently learning Advanced JS & ckeditor5
+- 🔭 I’m currently working on How to Invest with Data Science 
+- 🌱 I’m currently learning Advanced JS & ONLYOFFICE
 
 
 ### **STATS**:
