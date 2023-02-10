@@ -8,7 +8,7 @@ Passionate **FrontEnd developer** from India 🇮🇳
 About me:
 - I’m currently learning `ReactJS` and some pixel-art.
 - Working on how to contribute in open-soucre projects.
-- Open-Sourced [CKEditor 5](https://github.com/ckeditor/ckeditor5) and [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) before.
+- Open-Sourced and worked on [CKEditor 5](https://github.com/ckeditor/ckeditor5) and [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) before.
 - PC building enthusiast and love/enjoy playing games.
 
 
