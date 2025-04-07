@@ -25,7 +25,7 @@ Passionate **FrontEnd developer** from India 🇮🇳
 
 ### **Stats**:
 <a href="https://github.com/theezeb/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=theezeb&theme=radical" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=theezeb&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/theezeb/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theezeb&layout=compact&langs_count=8&card_width=290" />
