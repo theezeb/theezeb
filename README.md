@@ -26,5 +26,5 @@ Passionate **FrontEnd developer** from India 🇮🇳
 ### **Stats**:
 
 
-| <a href="https://github.com/shahzebgit/github-readme-stats"><img align="center" src="https://github-readme-stats-shahzebgit.vercel.app/api?username=shahzebgit&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shahzeb's github stats" /></a> | <a href="https://github.com/shahzebgit/github-readme-stats"><img align="center" src="https://github-readme-stats-shahzebgit.vercel.app/api/top-langs/?username=shahzebgit&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/theezeb/github-readme-stats"><img align="center" src="https://github-readme-stats-theezeb.vercel.app/api?username=theezeb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shahzeb's github stats" /></a> | <a href="https://github.com/theezeb/github-readme-stats"><img align="center" src="https://github-readme-stats-theezeb.vercel.app/api/top-langs/?username=theezeb&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
