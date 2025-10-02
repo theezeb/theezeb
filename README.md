@@ -1,4 +1,7 @@
 ### Well Hello there,
+I'm Shahzeb Parkar (شحذب) 
+_Pronounced as : Sha-he-zeb_
+
 I'm a **Software Engineer** working full-time job.<br>
 Passionate **FrontEnd developer** from India 🇮🇳
 
