@@ -19,15 +19,3 @@ Passionate **FrontEnd developer** from India 🇮🇳
 <code><img height="25" alt="aws" src="https://raw.githubusercontent.com/shahzebgit/explore/main/topics/aws/aws.png"></code>
 <code><img height="25" alt="postgres" src="https://github.com/shahzebgit/explore/blob/main/topics/postgresql/postgresql.png"></code> 
 <code><img height="25" alt="linux" src="https://github.com/shahzebgit/explore/blob/main/topics/linux/linux.png"></code> 
-
-
-
-
-### **Stats**:
-<a href="https://github.com/theezeb/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=theezeb&theme=radical&rank_icon=github" />
-</a>
-<a href="https://github.com/theezeb/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theezeb&layout=compact&langs_count=8&card_width=290" />
-</a>
-
